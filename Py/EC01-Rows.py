@@ -1,3 +1,5 @@
+#shows row nums 1 - 7 
+
 rows = [1, 3, 5, 7, 3]
 max_width = max(rows)
 
