@@ -1,5 +1,4 @@
 """
-Programmer: [Alberto Salvador, Alejandro marti, Perez]
 Date: September 21, 2025
 Description:
 This program works with a list of IP addresses. It identifies which IPs

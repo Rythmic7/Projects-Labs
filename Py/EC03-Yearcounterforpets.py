@@ -1,5 +1,4 @@
 """
-Programmer: [Alberto Salvador, Alejandro Marti, Perez]
 Date: September 19, 2025
 Description:
 This program asks the user for their cat's name and age (in cat years).

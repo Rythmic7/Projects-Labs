@@ -1,5 +1,4 @@
 """
-Programmer: [Alberto Salvador, Alejandro Marti, Perez]
 Date: [9/21/2025]
 Description: This program asks the user for a number and computes the sum of
 the first N positive integers using the formula:
