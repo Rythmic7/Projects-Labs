@@ -26,6 +26,7 @@ SIEM / Log Monitoring
 <div> <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> </div>
 Scripting
 <div> <img src="https://img.shields.io/badge/-Bash-121011?&style=for-the-badge&logo=gnu-bash&logoColor=white" /> </div>
+<div> <img src="https://img.shields.io/badge/-Python-121011?&style=for-the-badge&logo=gnu-Python&logoColor=white" /> </div>
 Cloud
 <div> <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" /> </div>
 Certifications
