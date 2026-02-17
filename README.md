@@ -48,16 +48,6 @@ Seeking a SOC Tier 1 / Cybersecurity Analyst role to leverage my experience in s
 - Streamlined repetitive analysis workflows to support faster troubleshooting
 - Automated basic reporting and system health checks
 
-### PowerShell Admin Automation Scripts
-- Created PowerShell scripts for Windows administrative automation and reporting
-- Automated user/system checks to improve efficiency in daily operations
-- Supported repeatable workflows for environment validation and troubleshooting
-
-### Python Security Automation Scripts
-- Built Python scripts focused on automation, data parsing, and security workflows
-- Used scripting to support analysis tasks and improve operational efficiency
-- Developed foundational security tooling concepts through Python-based automation
-
 ### MITRE ATT&CK Threat Mapping Exercises
 - Applied MITRE ATT&CK methodology to map adversary techniques to detection concepts
 - Used ATT&CK to strengthen investigation logic and threat detection strategy
