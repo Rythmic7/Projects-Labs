@@ -12,14 +12,21 @@ My goal is to transition into a SOC Tier 1 / Cybersecurity Analyst role where I 
 
 # Skills
 
-Skill	Associated Experience / Work
-Log Analysis and Security Monitoring	Splunk Training / SOC Core Skills
-MITRE ATT&CK Framework Knowledge	Foundations of Operationalizing MITRE ATT&CK
-System Administration (DoD Environment)	Systems Administrator – GDH Consulting
-Virtualization and Lab Environments	VMware (Domain Controllers, Splunk Lab Projects)
-Automation / Scripting for Admin Tasks	Bash Log Analysis Automation
-Cloud Fundamentals	AWS Academy Cloud Foundations
-Networking Fundamentals	Cisco Networking Essentials
+| Skill                                         | Associated Project / Experience |
+|-----------------------------------------------|---------------------------------|
+| System Administration (DoD Environment)        | Systems Administrator – GDH Consulting |
+| SIEM Fundamentals / Log Analysis               | Splunk Learning + SIEM Practice Labs |
+| Security Monitoring Concepts                   | SOC Core Skills (Antisyphon) Training |
+| MITRE ATT&CK Framework Knowledge               | Foundations of Operationalizing MITRE ATT&CK |
+| Virtualization / Active Directory Lab Setup    | VMware Lab (Domain Controllers) |
+| Splunk Setup and Testing in Lab Environment    | VMware Lab (Splunk Deployment) |
+| Bash Scripting and Log Automation              | Bash Log Analysis Automation Scripts |
+| PowerShell Scripting for Admin Tasks           | PowerShell Automation / Reporting |
+| Python Scripting Fundamentals                  | Python Security & Automation Practice |
+| Networking Fundamentals                         | Cisco Networking Essentials |
+| Cloud Fundamentals (AWS)                       | AWS Academy Cloud Foundations |
+| Cloud Exposure (Azure)                         | Azure Lab Learning / Fundamentals Practice |
+
 
 # Tools
 
@@ -34,5 +41,38 @@ Cloud
 
 
 <div> <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" /> </div>
-Certifications
-<div> <img src="https://img.shields.io/badge/-CompTIA%20CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> <img src="https://img.shields.io/badge/-MITRE%20ATT%26CK%20(Operationalizing)-000000?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-Intro%20to%20Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> <img src="https://img.shields.io/badge/-SOC%20Core%20Skills%20(Antisyphon)-006400?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-AWS%20Academy%20Cloud%20Foundations-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/-Cisco%20Networking%20Essentials-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" /> </div>
+
+## Certifications
+
+<div>
+<a href="https://www.credly.com/users/alberto-salvador.15d21c57">
+<img src="https://img.shields.io/badge/-Credly%20Profile-FF6B00?&style=for-the-badge&logo=credly&logoColor=white" />
+</a>
+</div>
+
+<div>
+<a href="https://www.credly.com/users/alberto-salvador.15d21c57">
+<img src="https://img.shields.io/badge/-CompTIA%20CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
+
+<a href="https://www.credly.com/users/alberto-salvador.15d21c57">
+<img src="https://img.shields.io/badge/-MITRE%20ATT%26CK%20(Operationalizing)-000000?&style=for-the-badge&logoColor=white" />
+</a>
+
+<a href="https://www.credly.com/users/alberto-salvador.15d21c57">
+<img src="https://img.shields.io/badge/-Intro%20to%20Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+</a>
+
+<a href="https://www.credly.com/users/alberto-salvador.15d21c57">
+<img src="https://img.shields.io/badge/-SOC%20Core%20Skills%20(Antisyphon)-006400?&style=for-the-badge&logoColor=white" />
+</a>
+
+<a href="https://www.credly.com/users/alberto-salvador.15d21c57">
+<img src="https://img.shields.io/badge/-AWS%20Academy%20Cloud%20Foundations-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+</a>
+
+<a href="https://www.credly.com/users/alberto-salvador.15d21c57">
+<img src="https://img.shields.io/badge/-Cisco%20Networking%20Essentials-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
+</a>
+</div>
+
