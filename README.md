@@ -1,6 +1,6 @@
-Hello, I'm Alberto
+# Hello, I'm Alberto
 
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/alberto-s-11320228b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Introduction
 
@@ -10,7 +10,7 @@ Objective
 
 My goal is to transition into a SOC Tier 1 / Cybersecurity Analyst role where I can apply my experience in system administration, log analysis, security tooling, and threat detection using frameworks such as MITRE ATT&CK.
 
-Skills
+# Skills
 Skill	Associated Experience / Work
 Log Analysis and Security Monitoring	Splunk Training / SOC Core Skills
 MITRE ATT&CK Framework Knowledge	Foundations of Operationalizing MITRE ATT&CK
@@ -19,7 +19,7 @@ Virtualization and Lab Environments	VMware (Domain Controllers, Splunk Lab Proje
 Automation / Scripting for Admin Tasks	Bash Log Analysis Automation
 Cloud Fundamentals	AWS Academy Cloud Foundations
 Networking Fundamentals	Cisco Networking Essentials
-Tools
+# Tools
 Virtualization / Lab
 <div> <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" /> </div>
 SIEM / Log Monitoring
